@@ -148,6 +148,5 @@
     nav .wrap{height:auto;flex-direction:column;align-items:stretch;gap:10px;padding-top:12px;padding-bottom:12px}
     nav ul.navbtns{display:flex;flex-wrap:wrap;gap:6px}
     nav ul.navbtns a.nb{padding:7px 10px;font-size:10.5px;letter-spacing:.06em}
-    nav ul.navbtns li:first-child{display:none}
     .mono{font-size:26px}
   }
