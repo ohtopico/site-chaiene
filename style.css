@@ -226,3 +226,5 @@
 .post a{color:var(--navy)}
 .post .back{margin-top:40px;font-size:15px}
 .post h3{font-family:var(--serif);font-weight:500;font-size:23px;margin:24px 0 8px;color:var(--ink)}
+footer .credit{flex-basis:100%;font-size:11px;letter-spacing:.04em;color:rgba(255,255,255,.35)}
+footer .credit a{color:inherit;text-decoration:underline;text-underline-offset:2px}
