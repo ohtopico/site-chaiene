@@ -226,5 +226,8 @@
 .post a{color:var(--navy)}
 .post .back{margin-top:40px;font-size:15px}
 .post h3{font-family:var(--serif);font-weight:500;font-size:23px;margin:24px 0 8px;color:var(--ink)}
-footer .credit{flex-basis:100%;font-size:11px;letter-spacing:.04em;color:rgba(255,255,255,.35)}
+footer .credit{flex-basis:100%;font-size:11px;letter-spacing:.04em;color:rgba(255,255,255,.62)}
 footer .credit a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+
+.portrait{display:block;width:100%;max-width:300px;height:auto;aspect-ratio:1/1;object-fit:cover;border-radius:50%;margin-top:32px;border:6px solid var(--sky)}
+@media (max-width:820px){.portrait{max-width:220px;margin-top:24px}}
